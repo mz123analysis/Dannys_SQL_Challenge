@@ -1,0 +1,1 @@
+This project consists of completing Danny's 8 Week SQL Challenge. This is meant to challenge myself and learn more about SQL.
